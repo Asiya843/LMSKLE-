@@ -126,5 +126,6 @@ npm run dev
 This project is licensed under the MIT License.
 
 ---
+Author: Asiya
 
 # ⭐ Serephina — Smart Digital Library Experience
